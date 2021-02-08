@@ -1,0 +1,73 @@
+body,p,h1,h2,h3,h4,ul{
+    margin: 0;
+}
+ul{
+    padding: 0;
+    list-style: none;
+}
+img{
+border: none;
+vertical-align: middle;
+}
+a{
+    text-decoration: none;
+}
+i{
+    font-style: normal;
+}
+input,button{
+    margin: 0;
+    padding: 0;
+}
+button{
+    outline: none;
+}
+body{
+    font: 12px/1.5 tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;
+    color: #3c3c3c;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.leayer{
+    width: 1190px;
+    margin: 0 auto;
+}
+.clearfix{
+    content: '';
+    display: block;
+    clear: both;
+}
+.c4{
+    color: #f40;
+}
+.c5{
+    color: #f50;
+}
+mt-10{
+    margin-top: 10px;
+}
+mr-10{
+    margin-right: 10px;
+}
+ml-10{
+    margin-left: 10px;
+}
+mb-10{
+    margin-bottom: 10px;
+}
+pt-10{
+    padding-top: 10px;
+}
+pr-10{
+    padding-right: 10px;
+}
+pl-10{
+    padding-left: 10px;
+}
+pb-10{
+    padding-bottom: 10px;
+}

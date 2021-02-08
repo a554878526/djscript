@@ -1,0 +1,7 @@
+{
+    "editor.codeActionsOnSave": null,
+    "files.autoSaveDelay": 2000,
+    "files.autoSave": "onWindowChange",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
